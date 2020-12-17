@@ -12682,11 +12682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\KTJ_RevenueBudget\\KTJ_RevenueBudget\\KTJ_RevenueBudget.csproj",
+      "projectUniqueName": "D:\\temp\\GitHub\\Backend_Structure\\KTJ_RevenueBudget\\KTJ_RevenueBudget\\KTJ_RevenueBudget.csproj",
       "projectName": "KTJ_RevenueBudget",
-      "projectPath": "D:\\Demo\\KTJ_RevenueBudget\\KTJ_RevenueBudget\\KTJ_RevenueBudget.csproj",
+      "projectPath": "D:\\temp\\GitHub\\Backend_Structure\\KTJ_RevenueBudget\\KTJ_RevenueBudget\\KTJ_RevenueBudget.csproj",
       "packagesPath": "C:\\Users\\t181738\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\KTJ_RevenueBudget\\KTJ_RevenueBudget\\obj\\",
+      "outputPath": "D:\\temp\\GitHub\\Backend_Structure\\KTJ_RevenueBudget\\KTJ_RevenueBudget\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
