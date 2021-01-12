@@ -26,3 +26,17 @@ D:\Demo\KTJ_RevenueBudget\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueB
 D:\Demo\KTJ_RevenueBudget\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.RazorTargetAssemblyInfo.cache
 D:\Demo\KTJ_RevenueBudget\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.dll
 D:\Demo\KTJ_RevenueBudget\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.pdb
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\bin\Debug\netcoreapp2.1\KTJ_RevenueBudget.deps.json
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\bin\Debug\netcoreapp2.1\KTJ_RevenueBudget.runtimeconfig.json
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\bin\Debug\netcoreapp2.1\KTJ_RevenueBudget.runtimeconfig.dev.json
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\bin\Debug\netcoreapp2.1\KTJ_RevenueBudget.dll
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\bin\Debug\netcoreapp2.1\KTJ_RevenueBudget.pdb
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.csprojAssemblyReference.cache
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.csproj.CoreCompileInputs.cache
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.RazorAssemblyInfo.cache
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.RazorAssemblyInfo.cs
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.AssemblyInfoInputs.cache
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.AssemblyInfo.cs
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.RazorTargetAssemblyInfo.cache
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.dll
+D:\GitHub\Backend_Structure\Sample\KTJ_RevenueBudget\obj\Debug\netcoreapp2.1\KTJ_RevenueBudget.pdb
